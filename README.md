@@ -119,7 +119,7 @@ recordings/
 
 Tool ini dibuat untuk keperluan edukasi dan testing. Penggunaan untuk bypass proteksi tanpa izin pemilik situs adalah tanggung jawab pengguna sepenuhnya.
 
-## 📄 License
+## 📜 License
 
 MIT License
 
